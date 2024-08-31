@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi there 👋 
-I'm Mohan an Android Developer with a passion for creating intuitive and user-friendly mobile applications. My expertise lies in using Kotlin and Jetpack Compose to build robust and scalable Android apps. With a strong background in software development, I enjoy tackling complex problems and continuously learning new technologies to enhance my skill set.<br>
+I'm Mohan an Engineering student passionate about Android development! With a good foundation in Kotlin and Jetpack Compose for building modern, responsive UIs. I enjoy solving problems, building user-friendly applications, and constantly learning new technologies to enhance my skills..<br>
 
 
 # 💻 Tech Stack:
